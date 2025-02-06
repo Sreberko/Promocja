@@ -1,4 +1,4 @@
-# Promocja dla pracowników Thoni Alutec
+#  dla pracowników Thoni Alutec
 
 <html lang="pl">
 <head>
