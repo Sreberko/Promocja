@@ -136,7 +136,7 @@
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',"> Przykładowe oferty walentynkowe </p>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">(dla pracowników Thoni Alutec): </p>
+     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">(wielki wybór w sklepie): </p>
     <img src="https://github.com/user-attachments/assets/d923b0f0-10fd-4a62-adfa-ea728b4b59da" alt="zdjęcie oferty">
    <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">66 zł</s> ➝ 
